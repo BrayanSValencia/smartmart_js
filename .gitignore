@@ -1,0 +1,12 @@
+# Node modules
+smartmart/node_modules/
+
+# Environment variables
+smartmart/.env
+
+# Logs
+smartmart/*.log
+
+# OS metadata
+smartmart/.DS_Store
+smartmart/Thumbs.db
